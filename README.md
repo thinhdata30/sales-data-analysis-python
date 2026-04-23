@@ -25,7 +25,7 @@ This project analyzes sales data using **Python, Pandas, and Matplotlib** to unc
 
 
 ##  Visualization
-![Sales Chart](sales_chart.png)
+![Sales Chart](Sales_chart.png)
 
 
 ##  Key Insights
