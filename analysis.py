@@ -20,6 +20,7 @@ df.groupby("Category")["Sales"].sum().plot(kind="bar")
 plt.title("Sales by Category")
 plt.ylabel("Sales")
 plt.xlabel("Category")
+plt.savefig("sales_chart.png")   
 plt.show()
 
 print("\nINSIGHTS:")
